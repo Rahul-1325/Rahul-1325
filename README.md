@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="profile.png" width="150" style="border-radius: 50%;" alt="Rahul Dondapati"/>
+<img src="profile.jpeg" width="150" style="border-radius: 50%;" alt="Rahul Dondapati"/>
 
 # Rahul Dondapati
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Business+%26+Data+Systems+Analyst;Regulatory+Compliance+%7C+Data+Lineage+Expert;Agile+Delivery+%7C+Financial+Systems+Analysis;CBAP+%7C+ACP+Certified+Professional)](https://git.io/typing-svg)
 
-<a href="https://www.linkedin.com/in/rahuld/" target="_blank">
+<a href="https://linkedin.com/in/rahul-dondapati-asdsad" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Rahul%20Dondapati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:Rahul.dondapati@Gmail.com">
@@ -112,6 +112,19 @@ Senior Business & Data Systems Analyst with 6+ years driving regulatory complian
 
 ---
 
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahuldondapati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahuldondapati&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahuldondapati&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
 
 ## 🏅 Certifications
 
@@ -128,7 +141,7 @@ Senior Business & Data Systems Analyst with 6+ years driving regulatory complian
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/rahuld/" target="_blank">
+<a href="https://linkedin.com/in/rahul-dondapati-asdsad" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
