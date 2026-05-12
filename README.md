@@ -142,9 +142,3 @@ Senior Business & Data Systems Analyst with 6+ years driving regulatory complian
 </a>
 
 </div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahuldondapati&style=flat-square&color=0E75B6" alt="Profile Views"/>
-</div>
