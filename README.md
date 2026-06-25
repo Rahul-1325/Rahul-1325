@@ -17,6 +17,9 @@
 <a href="tel:+14255204677">
   <img src="https://img.shields.io/badge/Phone-%2B1%20(425)%20520--4677-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
 </a>
+<a href="Rahul_Dondapati_Resume.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-Download%20PDF-success?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
+</a>
 
 </div>
 
